@@ -1,0 +1,5 @@
+food is ready
+<<<<<<< HEAD
+=======
+food is changed
+>>>>>>> 58c08c4a3bd800afeee391a0f25d8efb21d7915d
